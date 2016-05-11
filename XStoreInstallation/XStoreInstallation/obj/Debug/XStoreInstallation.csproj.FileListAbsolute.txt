@@ -91,3 +91,6 @@ C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInst
 C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
 C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
 C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\wojciech.pelka\Desktop\Xstore\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\Xstore\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\Xstore\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
