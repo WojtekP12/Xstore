@@ -26,7 +26,7 @@ namespace XStoreInstallation
         private string MNTProdFolder = @"MNTProd\";
         const string ENVSHORT = "EnvironmentShortcut.bat";
         const string ENVSHORT_REG = "EnvironmentShortcutANDRegisterEdit.bat";
-        private const string POSVERSION = "xstore-4.5.1.5-5.22.0-0.0-GAI-pos-install(patched2).jar";
+        private const string POSVERSION = "xstore-4.5.1.5-5.34.0-0.0-GAI-pos-install(patched2).jar";
         const string INSTALLATIONCONFIG = "XStoreInstallationConfig.ini";
 
         //path to other files/folders

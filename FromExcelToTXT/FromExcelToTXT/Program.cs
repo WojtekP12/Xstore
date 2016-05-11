@@ -27,8 +27,8 @@ namespace FromExcelToTXT
         private static int currentRegisterNumber;
         private static int brandSheet;
 
-        const string AMERROLLOUT = "AMER Rollout - Installation Specs_AMER_v57.xlsx";
-        const string XSTOREPROPS = "Xstore_properties_configuration_checks4.5+_AMER_v.20.xlsx";
+        const string AMERROLLOUT = "AMER Rollout - Installation Specs_AMER_v58.xlsx";
+        const string XSTOREPROPS = "Xstore_properties_configuration_checks4.5+_AMER_v.21.xlsx";
         const string INSTALLATIONCONFIG = "XStoreInstallationConfig.ini";
 
         static void Main(string[] args)

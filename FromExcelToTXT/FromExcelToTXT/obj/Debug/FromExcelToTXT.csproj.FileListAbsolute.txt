@@ -79,3 +79,8 @@ C:\Users\wojciech.pelka\Desktop\Installation - new\FromExcelToTXT\FromExcelToTXT
 C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\bin\Debug\FromExcelToTXT.exe.config
 C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\obj\Debug\FromExcelToTXT.exe
 C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\obj\Debug\FromExcelToTXT.pdb
+C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\bin\Debug\FromExcelToTXT.exe
+C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\bin\Debug\FromExcelToTXT.pdb
+C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\bin\Debug\Ionic.Zip.dll
+C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\bin\Debug\Ionic.Zip.xml
+C:\Users\wojciech.pelka\Desktop\Xstore\FromExcelToTXT\FromExcelToTXT\obj\Debug\FromExcelToTXT.csprojResolveAssemblyReference.cache

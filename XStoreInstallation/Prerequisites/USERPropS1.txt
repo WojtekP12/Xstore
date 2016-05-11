@@ -1,6 +1,6 @@
 environment.role=nonlead
-environment.regnum=3
-environment.lead.name=KA23705R01
-environment.storenum=23705
+environment.regnum=2
+environment.lead.name=KA63502R01
+environment.storenum=63502
 
-AJB=10.53.85.133
+AJB=xx.xx.xxx.xxx

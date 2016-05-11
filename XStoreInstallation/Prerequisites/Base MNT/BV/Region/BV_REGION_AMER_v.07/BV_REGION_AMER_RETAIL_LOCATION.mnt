@@ -1,0 +1,42 @@
+INSERT|RETAIL_LOCATION|63001|63001|New York|Bottega Veneta Store|699 5th Avenue|||New York|NY|10022|US|(212) 371-5511||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63002|63002|Beverly Hills|Bottega Veneta Store|457 North Rodeo Drive|||Beverly Hills|CA|90210|US|(310) 858-6533||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63003|63003|San Francisco|Bottega Veneta Store|108 Geary Street|||San Francisco|CA|94108|US|(415) 981-1700||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63004|63004|Chicago|Bottega Veneta Store|800 North Michigan Avenue|||Chicago|IL|60611|US|(312) 664-3220||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63005|63005|Palm Beach|Bottega Veneta Store|239 Worth Avenue|||Palm Beach|FL|33480|US|(561) 833-3701||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63008|63008|Woodbury|Bottega Veneta Outlet Store|836 Grapevine Court|Woodbury Commons Outlets||Central Valley|NY|10917|US|(845) 928-4563||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63010|63010|Honolulu|Bottega Veneta Store|1450 Ala Moana Boulevard|Ala Moana Center||Honolulu|HI|96814|US|(808) 946-0100||||Hawaii|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63011|63011|Costa Mesa|Bottega Veneta Store|3333 Bristol Street|South Coast Plaza||Costa Mesa|CA|92626|US|(714) 540-9760||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63013|63013|Wailea|Bottega Veneta Store|3750 Wailea Alanui Drive|The Shops at Wailea||Wailea|HI|96753|US|(808) 891-7300||||Hawaii|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63014|63014|Cabazon|Bottega Veneta Outlet Store|48650 Seminole Drive #C916|Desert Hills Premium Outlets||Cabazon|CA|92230|US|(951) 849-0348||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63016|63016|Manhasset|Bottega Veneta Store|2112 Nothern Boulevard|Americana Manhasset||Manhasset|NY|11030|US|(516) 627-7580||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63017|63017|Honolulu|Bottega Veneta Store|2122 Kalakaua Ave|||Honolulu|HI|96815|US|(808) 923-0800||||Hawaii|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63019|63019|Dallas|Bottega Veneta Store|8687 N. Central Expressway Suite 520|North Park Center||Dallas|TX|75225|US|(214) 265-0136||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63020|63020|Bal Harbour|Bottega Veneta Store|9700 Collins Ave|||Bal Harbour|FL|33154|US|(305) 864-6247||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63021|63021|Bellagio Resort Hotel|Bottega Veneta Store|3600 Las Vegas Blvd South|||Las Vegas|NV|89109|US|(702) 369-2944||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63022|63022|Carmel Plaza|Bottega Veneta Store|203A Ocean & Mission|||Carmel|CA|93923|US|(831) 622 0518||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63023|63023|Houston|Bottega Veneta Store|5015 Westheimer Space # A2110|||Houston|TX|77056|US|(713) 621 5296||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63024|63024|Natick|Bottega Veneta Store|1245 Worcester Street Space # 3038|||Boston|MA|01760|US|(508) 652-9707||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63025|63025|Palazzo|Bottega Veneta Store|3327 Las Vegas Blvd South, Suite #2944|Palazzo Hotel||Las Vegas|NV|89109|US|(702) 369-0747||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63026|63026|Scottsdale|Bottega Veneta Store|7014 East Camelback Road #1140|Scottsdale Fashion Square||Scottsdale|AZ|85251|US|(480) 947-0153||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63027|63027|Tysons|Bottega Veneta Store|2001 International Drive|Tysons Galleria Space 2502||Mc Lean|VA|22102|US|(703) 442-3138||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63028|63028|Palm Desert|Bottega Veneta Store|73-061 EL PASEO SUITE 3|||Palm Desert|CA|92260|US|(760) 836-0459||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63029|63029|City Center|Bottega Veneta Store|3720 South Las Vegas Blvd|Suite 123||Las Vegas|NV|89109|US|(702) 220-4751||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63030|63030|Atlanta|Bottega Veneta Store|3500 Peachtree Rd. NE Space 1104A|||Atlanta|GA|30326|US|(404) 467-8705||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63031|63031|Madison Ave|Bottega Veneta Store|849 Madison Ave.|||New York|NY|10021|US|(212) 879-4182||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63032|63032|New York Mens|Bottega Veneta Store|23 East 67th Street|||New York|NY|10065|US|(212) 879-5780||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63033|63033|Melrose|Bottega Veneta Store|8445 Melrose Place|||Los Angeles|CA|90069|US|(323) 782-4970||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63034|63034|Boston|Bottega Veneta Store|310 Boylston St.|||Boston|MA|02116|US|(617) 960-0880||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63035|63035|Valley Fair|Bottega Veneta Store|2855 Stevens Creek Blvd.|Westfield Valley Fair||Santa Clara|CA|95050|US|(408) 878-8606||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63036|63036|Brookfield Place|Bottega Veneta Store|225 Liberty St.|Suite 124||New York|NY|10281|US|(212) 271-2626||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63037|63037|Orlando|Bottega Veneta Store|8200 Vineland Ave. Space 150|Orlando Vineland Premium Outlets||Orlando|FL|32821|US|(321) 329-3950||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63038|63038|Madison Ave|Bottega Veneta Store|650 Madison Ave|||New York|NY|10022|US|(212) 371-5511||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63077|63077|Shop Online|Bottega Veneta Store|697 5th Avenue|||New York|NY|10022|US|(800) 845-6790||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63095|63095|Sample Sale|Bottega Veneta Store|699 5th Avenue|||New York|NY|10022|US|(212) 371-5511||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|63350|63350|Perisur|Bottega Veneta Store|Av. Periferico Sur #4690|Col. Jardines del Pedregal||Perisur|CP|04500|MX|011 52 55 51718217||||es_MX|||||0|0|0||S|||es_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|63351|63351|Santa Fe|Bottega Veneta Store|Av. Vasco de Quiroga #3800 |Col. Vista Mermosa||Santa Fe|CP|05109|MX|011 52 55 21674219||||es_MX|||||0|0|0||S|||es_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|63352|63352|Cancun|Bottega Veneta Store|La Isla Shopping Village|||Cancun|MX|77500|MX|011 52 998 176 8131||||es_MX|||||0|0|0||S|||es_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|63354|63354|Polanco|Bottega Veneta Store|Moliere 222, Colonia Polanco|Delagacion Miguel Hidalgo||Polanco|MX|11540|MX|+ 52 55 5280 6064||||es_MX|||||0|0|0||S|||es_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|63353|63353|Monterrey|Bottega Veneta Store|Centro Comerical La Isla|Jose Vasconcelos # 402||Monterrey|MX|66220|MX|+ 52 81 1522 5740||||es_MX|||||0|0|0||S|||es_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|63501|63501|Brazil|Bottega Veneta Store|Avenida Brigadeiro Faria Lima 2232 Ioja |||Sao Paulo|SP|01489-900|BR|011 55 11 5904 6670||||Brazil|||||0|0|0||S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|63502|63502|JK Mall|Bottega Veneta Store|Av Presidente Juscelino|Shopping Center JK Iguatemi||Sao Paulo|SP|04543-011|BR|011 55 11 3049 5959||||Brazil|||||0|0|0||S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|63039|63039|Beverly Hills|Bottega Veneta Store|457 North Rodeo Drive|||Beverly Hills|CA|90210|US|(310) 858-6533||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS

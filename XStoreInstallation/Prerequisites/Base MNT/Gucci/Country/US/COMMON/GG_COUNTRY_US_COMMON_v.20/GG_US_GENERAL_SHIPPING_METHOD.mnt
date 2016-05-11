@@ -1,9 +1,0 @@
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx 2Day|FedEx 2Day|1|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx Express Saver|FedEx Express Saver|2|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx Ground|FedEx Ground|3|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx International Economy|FedEx International Economy|4|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx International Priority|FedEx International Priority|5|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx Overnight Priority|FedEx Overnight Priority|6|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|FedEx Standard Overnight|FedEx Standard Overnight|7|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|Messenger/Courier|Messenger/Courier|8|0
-INSERT|CODE_VALUE|SHIPPING_METHOD|Saturday Delivery|Saturday Delivery|9|0

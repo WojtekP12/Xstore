@@ -1,8 +1,8 @@
-storeCode=23705
-storeType=DOS
-brand=Gucci
-city=Bellevue
-country/state=USA/WA
-numberOfRegisters=3
-MNT=GG_REGION_AMER_v.15.zipGG_COUNTRY_US_COMMON_v.16.zipGG_COUNTRY_US_DOS_v.04.zip
-Actual_MNT=GG_REGION_AMER_v.17.zipGG_COUNTRY_US_COMMON_v.20.zipGG_COUNTRY_US_DOS_v.04.zip
+storeCode=63502
+storeType=SIS
+brand=BV
+city=Sao Paulo
+country/state=BRASIL/SP
+numberOfRegisters=2
+MNT=BV_REGION_AMER_v.07.zipBV_COUNTRY_BR_COMMON_v.01.zipBV_COUNTRY_BR_SIS_v.01.zip
+Actual_MNT=BV_REGION_AMER_v.07.zipBV_COUNTRY_BR_COMMON_v0.1.zipBV_COUNTRY_MX_SIS_v0.1.zip

@@ -1,7 +1,7 @@
-rtlLocId = 23705
-terminalId = 3
-storeprimary.host = KA23705R01
-storebackup.host = KA23705R02
+rtlLocId = 63502
+terminalId = 2
+storeprimary.host = KA63502R01
+storebackup.host = KA63502R02
 xcenter.port = 8080
 local.host = localhost
 repl.host = localhost
