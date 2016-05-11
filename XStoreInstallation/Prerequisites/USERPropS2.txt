@@ -1,0 +1,9 @@
+rtlLocId = 23705
+terminalId = 3
+storeprimary.host = KA23705R01
+storebackup.host = KA23705R02
+xcenter.port = 8080
+local.host = localhost
+repl.host = localhost
+training.host = localhost
+xcenter.host = klientpos.kering.net

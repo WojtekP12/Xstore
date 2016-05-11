@@ -1,0 +1,8 @@
+storeCode=23705
+storeType=DOS
+brand=Gucci
+city=Bellevue
+country/state=USA/WA
+numberOfRegisters=3
+MNT=GG_REGION_AMER_v.15.zipGG_COUNTRY_US_COMMON_v.16.zipGG_COUNTRY_US_DOS_v.04.zip
+Actual_MNT=GG_REGION_AMER_v.17.zipGG_COUNTRY_US_COMMON_v.20.zipGG_COUNTRY_US_DOS_v.04.zip

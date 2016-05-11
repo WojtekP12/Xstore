@@ -1,0 +1,7 @@
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Release\XStoreInstallation.exe.config
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Release\XStoreInstallation.exe
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Release\XStoreInstallation.pdb
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Release\stdole.dll
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\obj\Release\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\obj\Release\XStoreInstallation.exe
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\obj\Release\XStoreInstallation.pdb

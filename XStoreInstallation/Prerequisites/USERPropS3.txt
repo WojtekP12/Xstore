@@ -1,0 +1,3 @@
+dtv.datasource.storeprimary.Enabled=True
+dtv.datasource.storebackup.Enabled=True
+dtv.datasource.xcenter.Enabled=True

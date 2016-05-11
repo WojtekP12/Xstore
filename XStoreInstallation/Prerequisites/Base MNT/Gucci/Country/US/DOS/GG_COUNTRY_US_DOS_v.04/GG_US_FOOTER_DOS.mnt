@@ -1,0 +1,163 @@
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_O_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SALE_S_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_O_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_RETURN_S_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_O_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_S_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_PRESALE_M_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_O_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SPECIAL_ORDER_S_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_STORE_CREDIT_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_CARD_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|5|and any beauty and fragrance products in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|6|their original, unopened packaging\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|7|will be accepted for exchange within \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|8|10 days of purchase when accompanied\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_GIFT_RECEIPT_FOOTER|DEFAULT|9|by an original gift receipt.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_O_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_S_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|1|All swimwear, sunglasses, intimate\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|2|apparel and sale items are final sale.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|3|Any other full-priced merchandise in\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|4|original condition (not worn or used), \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|5|and any beauty and fragrance products in \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|6|their original, unopened packaging will \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|7|be accepted for a full refund or \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|8|exchange within 10 days of purchase \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|9|when accompanied by an original receipt. \n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|10|Refunds may only be issued in the same\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||
+INSERT|RECEIPT_TEXT|DEFAULT|KRG_SEND_SALE_M_FOOTER|DEFAULT|11|form as the original  payment.\n|2011-01-01 00:00:00.000||1|CENTERED||||||||||||||||||||||||||||

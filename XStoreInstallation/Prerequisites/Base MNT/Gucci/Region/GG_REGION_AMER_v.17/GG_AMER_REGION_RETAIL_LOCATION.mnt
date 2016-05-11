@@ -1,0 +1,148 @@
+INSERT|RETAIL_LOCATION|23002|23002|San Juan|San Juan|1052 Avenida Ashford|||San Juan|PR|00907|US|(787) 722-2777||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23008|23008|St. Thomas|St. Thomas|5332 YACHT HAVEN GRANDE||St. Thomas|St Thomas|VI|00802|US|(340) 776-4244||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23011|23011|Atlanta|Phipps Plaza|3500 Peachtree Road|Phipps Plaza|NE|Atlanta|GA|30326|US|(404) 233-4899||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23012|23012|King of Prussia|KING OF PRUSSIA|160 N Gulph Rd Space 1063A||GUCCI|King of Prussia|PA|19406|US|(610) 337-4130||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23221|23221|Gucci Holt Montreal|Gucci Holt Montreal|1300 Sherbrooke West|||Montreal|QB|H3G1H9|CA|(514) 842-5111||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23014|23014|Palm Desert|Gucci Store|73-061 El Paseo|Suite 4||Palm Desert|CA|92260|US|(760) 340-1468||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23305|23305|Perisur|Perisur|Anillo Periferico Sur #4690|Col. Ampliacion Pedregal de San Angel|Colonia Jardines del Pedregal|C.P. 04500, Mexico DF||CP 04500 |MX|011 52 55 5171-7030||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23306|23306|Guadalajara|Guadalajara|Av. Patria #2085|Col. Puerta de Hierro|CP 45116 |C.P. 45116, Zapopan, Jal.||CP 45116 |MX|011 52 33 3611-1658||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23307|23307|Santa Fe|Santa Fe|Av. Vasco de Quiroga #3800 |Col. Antigua Mina a Totolapan ||C.P. 05109, Mexico DF ||05109|MX|011 52 55 2167-8064||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23310|23310|Monterrey|Monterrey|Jose Vasconcelos 402|Colonia del Valle|San Pedro Garza Garcia|Monterrey||CP 66220|MX|011 52 81 8335-2429||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23313|23313|Boutique Palacio Cancun|Colonia Benito Juarez|Bulevar Kukulkan, Lote 10-10|Colonia Benito Juarez|Mexico|Cancun||CP 77500|MX|011 52 99 8176-8318||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23330|23330|MEXICO CITY INTERLOMAS PDH|MEXICO CITY INTERLOMAS PDH|Vailidad de la Barranca No. 6|Col. Ex Hacienda Jesus Del Monte||Mexico City|MX|52787|MX|011 52 55 5290-7704||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23331|23331|Villahermosa|Villahermosa|Carlos Pellicer Camara #129|Plutarco Elias Calles||Villahermosa|TB|86000|MX|011 52-99-3253-5303||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23332|23332|Puebla|Puebla|Blvd. Del Niño Poblano No. 2510|Col. Concepción de la Cruz|Centro comercial Angelópolis|Puebla|MX|72450 |MX|011 52 222 225-7805||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23333|23333|Queretaro|Queretaro|Carretera Querétaro San Luis Potosi # 12401|Col. El Salitre Qro. Qro. C.P.||Queretaro|MX|76127|MX|011 52-44-2688-4531||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23334|23334|Polanco|Polanco|Av Moliere 222|Delegacion Miguel Hidalgo||Polanco|MX|11550|MX|011 52-55-5125-0290||||es_MX|||||0|0|0||S|||en_MX|MXN||0||||||SIS
+INSERT|RETAIL_LOCATION|23016|23016|Phoenix |Biltmore Fashion Park|7014 East Camelback|Scottsdale Fashion Square|Phoenix |Scottsdale|AZ|85251|US|(480) 945-1344||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23505|23505|Brasília Iguatemi|Brasília Iguatemi|Ca 4 - Lago Norte|||Brasília |DF|71503-504|BR|011 55-61-3468-9300||||Brazil|||||0|0|0|gbrasilia@br.gucci.com |S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|23506|23506|Sao Paulo Cidade Jardim|Sao Paulo Cidade Jardim|Av. Magalhães de Castro, 12000|||Morumbi|SP|05502-001|BR|011 55-11-3759-8090||||Brazil|||||0|0|0|gcidadejardim@br.gucci.com|S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|23507|23507|Jk Iguatemi  Sao Paolo|Jk Iguatemi  Sao Paolo|Avenida Juscelino Kubitschek|No 2041 loja 140-141||Sao Paulo|SP|140-141|BR|011 55-11-3047-4040||||Brazil|||||0|0|0|GJKMall@br.gucci.com|S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|23508|23508|RIO|RIO|AVENIDA DAS AMERICAS, 3900 |||RIO DE JANEIRO|RJ|22631|BR|011 55-11-3252-2700||||Brazil|||||0|0|0|GRiodeJaneiro@br.gucci.com |S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|23509|23509|Sao Paulo Iguatemi|Sao Paulo Iguatemi|Av. Brigadeiro Faria Lima| 2232; Loja- 03A; Piso 2||Sao Paulo|SP|CEP 01489-900|BR|011 55 11 3097-8655||||Brazil|||||0|0|0|gsaopaolo@br.gucci.com|S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|23510|23510|Recife|Recife|Av. República do Líbano nº 251|Shopping Rio Mar||Recife|RJ|51110|BR|011 55-81-2138-1500||||Brazil|||||0|0|0|GRecife@br.gucci.com |S|||en_US|BRL||0||||||SIS
+INSERT|RETAIL_LOCATION|23801|23801|Panama|Panama|nivel 00, local E-356|Gucci Boutique||Panama|PA|09999|PA||||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23901|23901|Santiago Chile|Gucci Chile|Av. Pdte. Kennedy Nº5413|local 490, Las Condes||Santiago||8320000|CL|56 232 214 4900|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23017|23017|San Francisco|Union Square|240 Stockton Street||San Francisco|San Francisco|CA|94108|US|(415) 392-2808||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23018|23018|Charleston |Charleston|132 Market Street|Charleston Place|Charleston |Charleston|SC|29401|US|(843) 722-3788||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23019|23019|Secaucus Outlet |Secaucus Outlet |50 Hartz Way |||Secaucus|NJ|07094|US|(201) 392-2670||||NJ|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23020|23020|Vacaville|Vacaville|284 Nut Tree Road|Vacaville Premium Outlets|Vacaville|Vacaville|CA|95687|US|(707) 447-0104||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23021|23021|Houston |The Galleria II|5085 Westheimer Ste 2850|The Galleria II|Houston |Houston|TX|77056|US|(713) 961-0778||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23022|23022|Seattle|Seattle|1302 Fifth Avenue||Seattle|Seattle|WA|98101|US|(206) 682-1730||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23023|23023|Ala Moana |Ala Moana Center|1450 Ala Moana Boulevard|Ala Moana Center|Ala Moana |Honolulu|HI|96814|US|(808) 942-1148||||CA|0||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23024|23024|Orlando |Mall at Milenia|4200 Conroy Road, Suite P281|Mall at Milenia|Orlando |Orlando|FL|32839|US|(407) 903-1033||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23026|23026|St. Augustine|San Francisco|470 Prime Outlet Blvd.|Suite 1150 (B170)|San Francisco|St. Augustine|FL|32084|US|(904) 824-6269||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23027|23027|Paramus|Paramus|1 Garden State Plaza Space # 1120|Garden State Plaza|Gucci|Paramus|NJ|07652|US|(201) 368-4723||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23028|23028|Manhasset |Manhasset|2124 Northern Boulevard||Manhasset |Manhasset|NY|11030|US|(516) 365-0994||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23029|23029|NY Madison Ave|Madison Avenue|840 Madison Avenue|Madison Avenue|NY Madison Ave|New York|NY|10021|US|(212) 717-2619||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23030|23030|NY 5th Ave |Fifth Avenue|725 Fifth Avenue||NY 5th Ave |New York|NY|10022|US|(212) 826-2600||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23032|23032|Queenstown|Queenstown|425 Outlet Center Drive||Queenstown|Queenstown|MD|21658|US|(410) 827-4702||||MD|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23033|23033|CityCenter|City Center|3720 S. Las Vegas Boulevard||City Center|Las Vegas|NV|89109|US|(702) 730-1946||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23035|23035|Beverly Hills|Rodeo Drive|347 North Rodeo Drive|Rodeo Drive|Beverly Hills|Beverly Hills|CA|90210|US|(310) 278-3451||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23036|23036|Las Vegas Caesars|The Forum Shops at Caesars|3500 Las Vegas Boulevard South|Suite B17A|Las Vegas Caesars|Las Vegas|NV|89109|US|(702) 369-7333||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23037|23037|Natick|NATICK MALL|1245 WORCESTER ST # 3040|NATICK MALL|GUCCI|Natick|MA|01760|US|(508) 655-0607||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23038|23038|Palm Beach|Palm Beach|150 Worth Avenue||Palm Beach|Palm Beach|FL|33480|US|(561) 655-6955||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23039|23039|San Marcos|San Marcos|3939 IH 35 South|Suite #1050|San Marcos|San Marcos|TX|78666|US|(512) 392-9130||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23040|23040|Bal Harbour|Bal Harbour Shops|9700 Collins Avenue|Bal Harbour Shops|Bal Harbour|Bal Harbour|FL|33154|US|(305) 868-6504||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23041|23041|Dallas |Galleria|13350 North Dallas Parkway|Suite 1355|Dallas |Dallas|TX|75240|US|(972) 387-3357||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23042|23042|Chicago||900 North Michigan Avenue||Chicago |Chicago|IL|60611|US|(312) 664-5504||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23043|23043|Coral Gables|Village of Merrick Park|342 San Lorenzo Avenue|Village of Merrick Park|Coral Gables|Coral Gables|FL|33146|US|(305) 441-2004||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23044|23044|Tysons|Tyson's Corner|1785 M International Drive|Suite 2224|Tysons|McLean|VA|22102|US|(703) 506-6804||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23045|23045|Short Hills|Short Hills|1200 Morris Tpke |Suite D235|Short Hills|Short Hills|NJ|07078|US|(973) 564-7600||||NJ|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23046|23046|Tampa |Tampa|2223 North West Shore Blvd.|International Plaza and Bay Street|Tampa |Tampa|FL|33607|US|(813) 348-2708||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23047|23047|Boston |Boston|800 Boylston Street, Space TS101A|Mandarin Oriental, Boston|Boston |Boston|MA|02199|US|(617) 247-3000||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23049|23049|Woodbury Outlet|Woodbury|302 Red Apple Ct|Woodbury Commons Premium Outlets|Woodbury Outlet|Central Valley|NY|10917|US|(845) 928-8034||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23051|23051|Chevy Chase|Chevy Chase|5481 Wisconsin Ave|The Collection at Chevy Chase|Chevy Chase|Chevy Chase|MD|20815|US|(301) 986-8902||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23052|23052|Beverly Center|Beverly Center||8500 Beverly Blvd. Store #7743|Gucci Beverly Center # 52 |Los Angeles|CA|90048|US|(310) 652-0375||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23054|23054|Palm Beach Gardens|Palm Beach Gardens|3101 PGA Blvd. #J217|The Gardens|Palm Beach Gardens|Palm Beach Gardens|FL|33410|US|(561) 694-1463||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23055|23055|Troy|Troy|2801 Big Beaver Road|Somerset Collection|Troy |Troy|MI|48084|US|(248) 643-7630||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23057|23057|Aspen ||203 South Galena Street||Aspen |Aspen|CO|81611|US|(970) 920-9150||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23058|23058|Renaissance Mall|Renaissance Mall|Renaissance Mall|L.G. Smith Boulevard 82|Aruba |Oranjestad|AW||AW|297-583-3952|#941335|||1|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23059|23059|Cabazon Outlet|Cabazon|48650 Seminole Drive|Desert Hills Premium Outlet|Cabazon Outlet|Cabazon|CA|92230|US|(951) 849-7430||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23060|23060|Westchester |White Plains|125 Westchester Avenue|White Plains|Westchester |New York|NY|10601|US|(914) 683-1428||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23061|23061|San Jose|San Jose|333 Santana Row|Suite 1000|San Jose|San Jose|CA|95128|US|(408) 557-9926||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23064|23064|Wailea |Wailea|3750 Wailea Ala Nui Drive|The Shops at Wailea|Wailea |Wailea|HI|96753|US|(808) 879-1060||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23065|23065|Costa Mesa|Costa Mesa|3333 South Bristol Street|Suite 2218|Costa Mesa|Costa Mesa|CA|92626|US|(714) 557-9600||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23066|23066|Atlantic City|Atlantic City|1 Atlantic Ocean, Space #BR104|The Pier at Ceasars||Atlantic City|NJ|08401|US|(609) 449-1080||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23067|23067|Las Vegas  Bellagio|Bellagio|3600 Las Vegas Boulevard South|Bellagio|Las Vegas  Bellagio|Las Vegas|NV|89109|US|(702) 732-9300||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23068|23068|Waikiki - Honolulu|Waikiki|2118 Kalakaua Avenue||Waikiki - Honolulu|Honolulu|HI|96815|US|(808) 921-1000||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23069|23069|Customer Service|Customer Service|50 Hartz Way||Gucci|Secaucus|NJ|07094|US|(800) 234-8224||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23072|23072|Naples |Naples|5435 Tamiami Trail|Suite 72|Naples |Naples|FL|34108|US|(239) 254-1453||||CA|Luis Otero||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23074|23074|San Diego|San Diego|7007 Friars Rd. #377|The Fashion Valley Mall|Gucci|San Diego|CA|92108|US|(619) 298-0748||||CA|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23095|23095|Sample Sale|Gucci Sample Sale|685 Fifth Avenue|||New York|NY|10022|US|(212) 826-2600||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23222|23222|Gucci Holt Toronto|Gucci Holt Toronto|50 Bloor Street West|||Toronto|ON|M4W1A1|CA|(416) 922-2333||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23223|23223|Gucci Holt Vancouver|Gucci Holt Vancouver|737 Dunsmuir Street|||Vancouver|BC|V7Y1E4|CA|(604) 681-3121||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23101|23101|Gucci Saks NYC 5th|GUCCI - SAKS|Gucci Saks NYC 5th|611 Fifth Avenue|GUCCI|New York|NY|10022|US|(212) 940-4314||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23102|23102|Gucci Saks Beverly Hills|GUCCI - SAKS|Gucci Saks Beverly Hills|9600 Wilshire Boulevard|GUCCI|Beverly Hills|CA|90212|US|(310) 887-5357||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23103|23103|Gucci Saks San Fran||Gucci Saks San Fran|384 Post Street|GUCCI|San Francisco|CA|94108|US|(415) 956-0120||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23104|23104|Gucci Saks NYC 5th|GUCCI - SAKS|Gucci Saks NYC 5th|611 Fifth Avenue|GUCCI|New York|NY|10022|US|(212) 940-4314||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23105|23105|Gucci Saks NYC 5th|GUCCI - SAKS|Gucci Saks NYC 5th|611 Fifth Avenue|GUCCI|New York|NY|10022|US|(212) 940-4314||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23106|23106|Gucci Saks Beverly Hills|GUCCI - SAKS|Gucci Saks Beverly Hills|9600 Wilshire Boulevard|GUCCI|Beverly Hills|CA|90212|US|(310) 887-5357||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23107|23107|Gucci Saks Beverly Hills|GUCCI - SAKS|Gucci Saks Beverly Hills|9600 Wilshire Boulevard|GUCCI|Beverly Hills|CA|90212|US|(310) 887-5357||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23108|23108|Gucci Saks San Fran|GUCCI - SAKS|Gucci Saks San Fran|384 Post Street|GUCCI|San Francisco|CA|94108|US|(415) 438-5355||||CA|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23110|23110|Gucci Saks St. Louis|GUCCI - SAKS|One Plaza Frontenac, 1st Fl|0|GUCCI|St. Louis|MO|63131|US|(314) 567-9200||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23111|23111|Gucci Saks Chicago HB|GUCCI - SAKS|717 North Michigan Avenue, 1st Fl||GUCCI|Chicago|IL|60611|US|(312) 799-5352||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23112|23112|Gucci Saks Chicago WRTW|GUCCI - SAKS|700 North Michigan Avenue, 2nd Fl|0|GUCCI|Chicago|IL|60611|US|(312) 799-5352||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23113|23113|Gucci Saks Greenwich|Greenwich|205 Greenwich Avenue |0|CT|Greenwich|CT|06830|US|(203) 862-5374|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23115|23115|Gucci Saks Bala Cynwyd HB|Bala Cynwyd HB|2 Bala Plaza|0|PA|Bala Cynwyd|PA|19004|US|(610) 667-1550|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23116|23116|Gucci Saks Bala Cynwyd WRTW|Bala Cynwyd WRTW|2 Bala Plaza|0|PA|Bala Cynwyd|PA|19004|US|(610) 667-1550|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23117|23117|Gucci Saks Dadeland HB|Dadeland HB|7687 North Kendall Drive|0|FL|Miami|FL|33156|US|(305) 662-8655|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23119|23119|Gucci Saks Boca Raton HB|Boca Raton HB|5800 Glades Road||FL|Boca Raton|FL|33431|US|(561) 620-1356|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23120|23120|Gucci Saks Boca Raton WRTW|Boca Raton WRTW|5800 Glades Road||FL|Boca Raton|FL|33431|US|(561) 620-1356|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23121|23121|Gucci Saks Houston HB|Houston HB|5115 Westheimer Road|Galleria|TX|Houston|TX|77056|US|(713) 843-5779|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23122|23122|Gucci Saks Houston WRTW|Houston WRTW|5115 Westheimer Road|Galleria|TX|Houston|TX|77056|US|(713) 843-5779|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23125|23125|Gucci Saks Short Hills HB|Short Hills HB|1200 Morris Turnpike |||Short Hills|NJ||US|(973) 376-7000||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23126|23126|Gucci Saks Huntington Station HB|Huntington Station HB|230 Walt Whitman Road |||Huntington Station|NY|11746|US|(631) 350-1253||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23127|23127|Gucci Saks Boston HB|Boston HB|Prudential Center |||Boston|MA||US|(617) 262-8500||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23128|23128|Gucci Saks Richmond HB|Richmond HB|9214 Stony Point Parkway |||Richmond|VA||US|(804) 320-6960||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23129|23129|Gucci Saks Palm Beach HB|Palm Beach HB|172 Worth Avenue|||Palm Beach|FL|33480|US|(561) 833-2551||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23130|23130|Gucci Saks Palm Beach Gardens HB|Palm Beach Gardens HB|3109 PGA Boulevard|||Palm Beach Gardens|FL|33410|US|(561) 515-8161||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23131|23131|Gucci Saks Naples Metro HB|Naples HB|5395 Tamiami Trail North |Waterside Shops |CA|Naples Metro|FL|34108|US|(239) 592-5900|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23133|23133|Gucci Saks Palm Desert HB|Palm Desert HB|73555 El Paseo Drive |||Palm Desert|CA|92260|US|(760) 837-2936|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23134|23134|Gucci Saks Phoenix HB|Phoenix HB|2446 East Camelback Road |||Phoenix|NV|85016|US|(602) 955-8000|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23135|23135|Gucci Saks New Orleans HB|New Orleans HB|301 Canal Place |||New Orleans|LA|70130|US|(504) 524-2200|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23136|23136|Gucci Saks San Antonio HB|San Antonio HB|7400 San Pedro Avenue, Suite 650 |||San Antonio|TX|78216|US|(210) 341-4111|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23137|23137|Gucci Saks Beachwood HB|Beachwood HB|26100 Cedar Road |||Beachwood|OH|44122|US|(216) 292-5500|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23138|23138|Gucci Saks Columbus HB|Columbus HB|1350 Polaris Pkwy |||Columbus|OH|43240|US|(614) 430-3500|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23139|23139|Gucci Saks Indianapolis HB|Indianapolis HB|1350 Polaris Pkwy One Plaza Frontenac |||Indianapolis|IN|63131|US|(317) 816-0171|||||||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23140|23140|Gucci Saks Chevy Chase|Gucci Saks Chevy Chase|5555 Wisconsin Ave|||Chevy Chase|MD|20815|US|(301) 657-9000||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23141|23141|Gucci Saks Troy|Saks Troy|2901 Big Beaver Road|Somerset Collections||Troy|MI|48084|US|(278) 643-9000||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23150|23150|Gucci Macys NY|Gucci Macys NY|151 West 34th Street|||New York|NY|10001|US|(212) 695-4400||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23160|23160|Bloomies New York|Bloomies New York|59th Street & Lexington Avenue|1000 Third Avenue||New York|NY|10022|US|(212) 705-2317||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23161|23161|Bloomies Roosevelt Field|Bloomies Roosevelt Field|630 Old Country Road|Roosevelt Field Mall||Garden City|NY|11530|US|(516) 873-2700||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23162|23162|Bloomies Aventura|Bloomies Aventura|19555 Biscayne Boulevard|The Aventura Mall||Aventura|FL|33180|US|(305) 792-1279||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23163|23163|Bloomies Chestnut Hill|Bloomies Chestnut Hill|225 Boylston Street|Chestnut Hill Mall||Newton|MA|02467|US|(617) 630-6000||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23164|23164|Bloomies San Francisco|Bloomies San Francisco|845 Market Street|||San Francisco|CA|94103|US|(415) 856-5429||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23165|23165|Bloomies Tysons Corner|Bloomies Tysons Corner|8100 Tysons Corner Center|Tyson’s Corner||McLean|VA|22102|US|(703) 556-4674||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23166|23166|Bloomies S. Coast Plaza|Bloomies S. Coast Plaza|3333 South Bristol Street|South Coast Plaza||Costa Mesa|CA|92626|US|(714) 824-4771||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23167|23167|Bloomies Century City|Bloomies Century City|10250 Santa Monica Blvd|Century City Shopping Center||Los Angeles|CA|90067|US|(310) 712-2216||||DEFAULT|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23168|23168|Bloomies Chicago|Bloomies Chicago|900 North Michigan Avenue|0||Chicago|IL|60611|US|(312) 440-4502||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23169|23169|Bloomies Glendale|Bloomies Glendale|103 South Brand Blvd. |Glendale Galleria||Glendale|CA|91210|US|(818) 638-4026||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23180|23180|Gucci Niemans Bal Harbour|Nieman Marcus Bal Harbour|9700 Collins Avenue|0||Bal Harbour|FL|33154|US|(305) 865-6161||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23181|23181|Gucci Niemans Atlanta|Nieman Marcus Atlanta|3393 Peachtree Road NE|0||Atlanta|GA|30326|US|(404) 266-8200||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23182|23182|Gucci Niemans Dallas|Nieman Marcus Dallas|8687 North Central Expressway Ste 400|0||Dallas|TX|75225|US|(214) 891-1253||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23183|23183|Gucci Niemans Paramus|Nieman Marcus Paramus|503 Garden State Plaze, Rt 4 & Rt 17|0||Paramus|NJ|07652|US|(201) 291-7140||||Mainland|||||0|0|0||S|||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23184|23184|Austin Neiman Marcus||3400 Palm Way|||Austin|TX|78758|US|(623) 719-1200|||||||||0|0|0||S|0||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23185|23185|Houston Neiman Marcu||2600 Post Oak Boulevard|||Houston|TX|77056|US|(713) 621-7100|||||||||0|0|0||S|0||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23186|23186|Chicago Oakbrook NM||6 Oakbrook Center  |Oakbrook Center||Oak Brook|IL|60523|US|(630) 572-1500|||||||||0|0|0||S|0||en_US|USD||0||||||SIS
+INSERT|RETAIL_LOCATION|23224|23224|Gucci Holt Calgary|Gucci Holt Calgary|510 8th Avenue SW|||Calgary|AB|T2P4H9|CA|(403) 269-7341||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23225|23225|Gucci Holt Toronto Yorkdale|Gucci Holt Toronto|3401 Dufferein Street|||Toronto|ON|M6A2T9|CA|(416) 789-5377||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23226|23226|Gucci Holt Toronto Sherway|Gucci Holt Toronto|25 The West Mall|||Toronto|ON|M9C1B8|CA|(416) 621-9900||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23227|23227|Gucci Holt Ottawa|Gucci Holt Ottawa|240 Sparks Street|||Ottawa|ON|K1P6C9|CA|(613) 238-2200||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23228|23228|Gucci Holt Edmonton|Gucci Holt Edmonton|10180 101 Street Northwest|||Edmonton|AB|T5J3S4|CA|(780) 425-5300||||Canada|||||0|0|0||S|||en_US|CAD||0||||||SIS
+INSERT|RETAIL_LOCATION|23250|23250|Vancouver|Vancouver|900 West Georgia Street|Fairmont Hotel|Vancouver|Vancouver|BC|V6C2W6|CA|(604) 488-0320||||Canada|||||0|0|0||D|||en_US|CAD||0||||||DOS
+INSERT|RETAIL_LOCATION|23251|23251|Montreal|Montreal||||Montreal|QB|H3G1H9|CA|(450) 419-5557||||Canada|||||0|0|0||D|||en_US|CAD||0||||||DOS
+INSERT|RETAIL_LOCATION|23256|23256|Toronto|Toronto|130 Bloor Street West||Toronto|Toronto|ON|M5S1N5|CA|(416) 963-5127||||Canada|||||0|0|0||D|||en_US|CAD||0||||||DOS
+INSERT|RETAIL_LOCATION|23277|23277|Canada Ecommerce|Canada Ecommerce|130 Bloor Street West||Toronto|Toronto|ON|M5S1N5|CA|(416) 963-5127||||Canada|||||0|0|0||D|||en_US|CAD||0||||||DOS
+INSERT|RETAIL_LOCATION|23362|23362|Mexico City|Mexico City|Presidente Masaryk #408|Col. Polanco||C.P. 11550, Mexico DF||11550|MX|011 52-55-5281-5880||||es_MX|||||0|0|0||D|||en_MX|MXN||0||||||DOS
+INSERT|RETAIL_LOCATION|23701|23701|Dallas NorthPark|NorthPark|8687 North Central Expressway|Suite 1408|Dallas |Dallas|TX|75225|US|(214) 706-0510||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23702|23702|Sawgrass|Sawgrass|1800 Sawgrass Mills Circle|Space 3601||Sunrise|FL|33323|US|(954) 846-5130||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23703|23703|Chicago Outlet|Chicago Outlet|5220 Fashions Outlet Way, Suite 2140|||Rosemont|IL|60018|US|(847) 233-9717||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23705|23705|Seattle Bravern|Seattle Bravern|11111 NE 8th Street # 5|Suite 170||Bellevue|WA|98004|US|(425) 454-1073||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23706|23706|Cabazon Kids|Cabazon Kids|48650 Seminole Drive|Suite 1144||Cabazon|CA|92230|US|(951) 849-5065||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23707|23707|Topanga|Topanga|6600 Topanga Canyon Blvd.|Suite 1084||Canoga Park|CA|91303|US|(818) 737-4200||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23708|23708|Louisville|Louisville|1155 Buck Creek Road|The Outlet Shoppes of Bluegrass||Simpsonville|KY|40067|US|(502) 722-8533||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23709|23709|NY Brookfield Place|Brookfield Place|200 Vesey Street, Suite 119|Brookfield Place Shopping Center||New York|NY|10281|US|(212) 634-8500||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23710|23710|Boca Raton Town Cent||6000 Glades Road|Suite 1146||Boca Raton|FL|33431|US|||||Mainland|||||0|0|0||D|0||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23711|23711|Washington DC City C||1000 I street NW|||Washington DC|DC|20001|US|||||Mainland|||||0|0|0||D|0||en_US|USD||0||||||DOS
+INSERT|RETAIL_LOCATION|23712|23712|San Francisco Outlet|San Francisco Premium Outlets|3890 Livermore Outlets Drive|San Francisco Premium Outlets||Livermore|CA|94551|US|925.273.3850||||Mainland|||||0|0|0||D|||en_US|USD||0||||||DOS

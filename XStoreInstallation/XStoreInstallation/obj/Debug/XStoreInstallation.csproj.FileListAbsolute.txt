@@ -1,0 +1,93 @@
+c:\users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+c:\users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+c:\users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+c:\users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+c:\users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\wojciech.pelka\documents\visual studio 2015\Projects\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\mateusz.kurowski\Desktop\XSTOREofficial\XStoreInstallatorLatest\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\mateusz.kurowski\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\wojciech.pelka\Desktop\XStoreInstallationTools\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\wojciech.pelka\Desktop\New folder\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\New folder\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\New folder\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\wojciech.pelka\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\krzysztof.lukawski\Desktop\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\wojciech.pelka\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\krzysztof.lukawski\Desktop\CatDogCar\XStoreInstallation Tools 2\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
+C:\Users\wojciech.pelka\Desktop\Installation\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Z_pulpitu\XStoreInstallation\Installation\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.csprojResolveAssemblyReference.cache
+C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe.config
+C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\obj\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.exe
+C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\XStoreInstallation.pdb
+C:\Users\wojciech.pelka\Desktop\Installation - new\XStoreInstallation\XStoreInstallation\bin\Debug\stdole.dll
